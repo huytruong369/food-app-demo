@@ -18,7 +18,17 @@ samples, guidance on mobile development, and a full API reference.
 Knowledge:
 - add fonts
 - svg package
+- Stack basic
+- Navigator
+- create new widgets (food card)
+
+Tried it on Flutter way.
 
 
 ### Food App Final UI
 ![App UI](/food_app.png)
+
+### Home Screen
+![App UI](/home_screen.png)
+### Detail Screen
+![App UI](/detail_screen.png)
